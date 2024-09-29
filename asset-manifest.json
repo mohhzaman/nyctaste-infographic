@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nyctaste-infographic/static/css/main.79dd9f97.css",
+    "main.js": "/nyctaste-infographic/static/js/main.dc42a959.js",
+    "static/js/453.ba46d788.chunk.js": "/nyctaste-infographic/static/js/453.ba46d788.chunk.js",
+    "index.html": "/nyctaste-infographic/index.html",
+    "main.79dd9f97.css.map": "/nyctaste-infographic/static/css/main.79dd9f97.css.map",
+    "main.dc42a959.js.map": "/nyctaste-infographic/static/js/main.dc42a959.js.map",
+    "453.ba46d788.chunk.js.map": "/nyctaste-infographic/static/js/453.ba46d788.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79dd9f97.css",
+    "static/js/main.dc42a959.js"
+  ]
+}
