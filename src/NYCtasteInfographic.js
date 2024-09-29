@@ -7,12 +7,12 @@ const NYCtasteInfographic = () => {
   const [activeSection, setActiveSection] = useState(null);
 
   const cuisineData = [
-    { name: 'Middle Eastern', value: 20 },
-    { name: 'Latin American', value: 20 },
-    { name: 'Asian', value: 20 },
-    { name: 'European', value: 15 },
-    { name: 'African', value: 15 },
-    { name: 'Fusion', value: 10 },
+    { name: 'Middle Eastern', value: 40 },
+    { name: 'Latin American', value: 5 },
+    { name: 'Asian', value: 40 },
+    { name: 'European', value: 5 },
+    { name: 'African', value: 5 },
+    { name: 'Fusion', value: 5 },
   ];
 
   const goals = [
