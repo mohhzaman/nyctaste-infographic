@@ -148,8 +148,8 @@ const NYCtasteInfographic = () => {
             className="bg-green-100 p-4 rounded-lg text-center"
             whileHover={{ scale: 1.05 }}
           >
-            <h3 className="font-bold text-2xl">$15,000</h3>
-            <p>Seeking for 15% equity</p>
+            <h3 className="font-bold text-2xl">$10,000</h3>
+            <p>Seeking for 10% equity</p>
           </motion.div>
           <motion.div 
             className="bg-blue-100 p-4 rounded-lg text-center"
